@@ -15,6 +15,13 @@ This project is built using:
 > 📧 Automated email alerts triggered at 75% waste threshold  
 > ♻️ Achieved 40% improvement in waste collection scheduling
 
+## 🎥 Project Demo Video
+
+[![Watch Demo on YouTube](https://img.youtube.com/vi/C0m3z5l4kmY/hqdefault.jpg)](https://youtube.com/shorts/C0m3z5l4kmY?si=pyXL2To-KDi-KHO3)
+
+> 👆 Click the thumbnail above to watch the demo video on YouTube.
+
+
 ## 📷 Snapshots
 
 ### 🗑️ Complete Smart Dustbin Setup
