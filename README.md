@@ -23,12 +23,12 @@ This project is built using:
 
 ### 📩 Email Alert at Threshold Breach
 
-(![WhatsApp Image 2025-07-09 at 10 03 30_52c50bc9](https://github.com/user-attachments/assets/5ba61304-9039-4816-942b-d4579fba16ac))
+![WhatsApp Image 2025-07-09 at 10 03 30_52c50bc9](https://github.com/user-attachments/assets/5ba61304-9039-4816-942b-d4579fba16ac)
 
 
 ### 📊 Ubidots Dashboard Visualization
-![![WhatsApp Image 2025-07-09 at 10 04 09_068d79e7](https://github.com/user-attachments/assets/622eb92c-eb5a-4aeb-8c00-738dae056d37)
-]
+![WhatsApp Image 2025-07-09 at 10 04 09_068d79e7](https://github.com/user-attachments/assets/622eb92c-eb5a-4aeb-8c00-738dae056d37)
+
 
 ## 📁 Sample Data
 
